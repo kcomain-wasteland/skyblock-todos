@@ -1,0 +1,19 @@
+{
+  "name": "skyblock-todo",
+  "version": "0.0.1",
+  "description": "skyblock todo list",
+  "main": "index.js",
+  "authors": {
+    "name": "Sophie Cheung",
+    "email": "me@soopy.moe"
+  },
+  "repository": "https://koakuma.soopy.moe/skyblock-todo",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}

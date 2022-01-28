@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "skyblock-todos"
+version = "0.1.0"
+description = "skyblock todo items"
+authors = ["Sophie Cheung <me@soopy.moe>"]
+license = "CC-0"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+Sphinx = "^4.4.0"
+furo = "^2022.1.2"
+sphinx-autobuild = "^2021.3.14"
+sphinx-copybutton = "^0.4.0"
+myst-parser = "^0.16.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

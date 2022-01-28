@@ -19,6 +19,9 @@ serve:
 	#sphinx-autobuild ../ "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 	sphinx-autobuild "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O) --watch ../dpextras
 
+gen-reqs:
+	dephell deps convert --from=pyproject.toml --to=requirements.txt --envs main
+
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
 %: Makefile

@@ -36,7 +36,8 @@ extensions = [
     # 'sphinx.ext.napoleon',
     # 'sphinx.ext.autosummary',
     'sphinx_copybutton',
-    'myst_parser'
+    'myst_parser',
+    'sphinx_last_updated_by_git'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -60,6 +61,10 @@ html_title = "Skyblock Todos"
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+myst_enable_extensions = [
+    'tasklist'
+]
+
 # autosummary_generate = True
 autosectionlabel_prefix_document = True
 
@@ -74,3 +79,6 @@ intersphinx_mapping = {
 #   'dpy': ('https://discordpy.readthedocs.io/en/stable/', None),
   # 'req': ('http://docs.python-requests.org/en/latest/', 'requests.inv')
 }
+
+# plugin::sphinx_last_updated_by_git: allow source link when file doesn't exist in git.
+git_untracked_show_sourcelink = True

@@ -1,5 +1,8 @@
-# Mining todo
+# Mining
 
-## Drill
-- [x] add item here
-- [ ] add more item here
+more useless pages.
+
+```{toctree}
+:glob:
+./*
+```

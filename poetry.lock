@@ -366,6 +366,17 @@ code_style = ["pre-commit (==2.12.1)"]
 rtd = ["sphinx", "ipython", "sphinx-book-theme"]
 
 [[package]]
+name = "sphinx-last-updated-by-git"
+version = "0.3.0"
+description = "Get the \"last updated\" time for each Sphinx page from Git"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+[package.dependencies]
+sphinx = ">=1.8"
+
+[[package]]
 name = "sphinxcontrib-applehelp"
 version = "1.0.2"
 description = "sphinxcontrib-applehelp is a sphinx extension which outputs Apple help books"
@@ -460,7 +471,7 @@ socks = ["PySocks (>=1.5.6,!=1.5.7,<2.0)"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "aff999621cbd71123f2b36869d1f0fff900cd594d65f2637b8131c167944d674"
+content-hash = "6e87a9e634b200c1e4e4d3f6657bb58229537a839225fb4501fe48f33023f057"
 
 [metadata.files]
 alabaster = [
@@ -679,6 +690,10 @@ sphinx-autobuild = [
 sphinx-copybutton = [
     {file = "sphinx-copybutton-0.4.0.tar.gz", hash = "sha256:8daed13a87afd5013c3a9af3575cc4d5bec052075ccd3db243f895c07a689386"},
     {file = "sphinx_copybutton-0.4.0-py3-none-any.whl", hash = "sha256:4340d33c169dac6dd82dce2c83333412aa786a42dd01a81a8decac3b130dc8b0"},
+]
+sphinx-last-updated-by-git = [
+    {file = "sphinx-last-updated-by-git-0.3.0.tar.gz", hash = "sha256:425dbac8eb0cb78f6b14ab9b42345800547a8863d6c7b00c970e9509e2174336"},
+    {file = "sphinx_last_updated_by_git-0.3.0-py3-none-any.whl", hash = "sha256:b5c188e1f6e04452333f7b68f6902ee698ad68b23f357ee023c2d028d4a5e001"},
 ]
 sphinxcontrib-applehelp = [
     {file = "sphinxcontrib-applehelp-1.0.2.tar.gz", hash = "sha256:a072735ec80e7675e3f432fcae8610ecf509c5f1869d17e2eecff44389cdbc58"},

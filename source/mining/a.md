@@ -15,3 +15,10 @@ can tita pick mine ruby
 tita pick is breakingpower 6 right
 ```
 - [ ] need at least hot mom 4 to see shit
+- `[16/36]` glacite jewel
+
+## glacite set
+- [x] helmet
+- [x] chestplate
+- [ ] leggings
+- [x] boots

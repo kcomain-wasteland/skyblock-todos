@@ -8,6 +8,7 @@ Click an item on the left sidebar to begin.
 
 mining/index.md
 misc/index.md
+soul/index.md
 ```
 
 

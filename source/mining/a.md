@@ -4,6 +4,52 @@
 
 no horny
 ```
+
+# Tit drill
+Requirements for DR-X355
+
+## Collection + Other Requirements
+- [ ] `[4/5]` Hot mom 5
+- [ ] `[/7]` Iron Ingot 7
+## Item Tree
+- [ ] `[0/1]` `Drill Engine`
+  - [ ] `[0/1]` `Enchanted Iron Block`
+    - [ ] `[0/160]` `Enchanted Iron Ingot`
+
+  - [ ] `[0/1]` `Golden Plate`
+    - [ ] `[0/2]` `Enchanted Gold Block`
+      - [ ] `[0/320]` `Enchanted Gold`
+    - [x] `[5/5]` `Glacite Jewel`
+    - [ ] `[0/1]` `Refined Diamond`
+      - [ ] `[0/2]` `Enchanted Diamond Block`
+        - [ ] `[0/320]` `Enchanted Diamond`
+  
+  - [x] `[3/3]` `Enchanted Redstone Block`
+  - [ ] `[2/10]` `Treasurite`
+  - [ ] `[0/1]` `Refined Diamond`
+    - [ ] `[0/2]` `Enchanted Diamond Block`
+      - [ ] `[0/320]` `Enchanted Diamond`
+
+
+- [ ] `[0/1]` `Fuel Tank`
+  - [ ] `[0/2]` `Enchanted Coal Block`
+    - [ ] `[0/320]` `Enchanted Coal`
+
+- [ ] `[0/6]` `Golden Plate`
+  - [ ] `[15/30]` `Glacite Jewel`
+  - [ ] `[0/12]` `Enchanted Gold Block`
+    - [ ] `[0/1920]` `Enchanted Gold`
+  - [ ] `[0/6]` `Refined Diamond`
+    - [ ] `[0/12]` `Enchanted Diamond Block`
+      - [ ] `[0/1920]` `Enchanted Diamond`
+
+- [ ] `[0/10]` `Refined Titanium`
+  - [ ] `[11/160]` `Enchanted tit`
+
+- [ ] `[1/10]` `Refined Mithril`
+  - [ ] `[128/1600]` `Enchanted mithril`
+
+
 # Gauntlet
 Started 2021-02-04 18:23
 ## Collection requirement

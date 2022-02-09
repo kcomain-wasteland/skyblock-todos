@@ -44,7 +44,7 @@ Requirements for DR-X355
       - [ ] `[0/1920]` `Enchanted Diamond`
 
 - [ ] `[0/10]` `Refined Titanium` (16 e tit @)
-  - [ ] `[12/160]` `Enchanted tit`
+  - [ ] `[13/160]` `Enchanted tit`
 
 - [ ] `[1/10]` `Refined Mithril` (160 e mith @)
   - [ ] `[136/1600]` `Enchanted mithril`

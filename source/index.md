@@ -7,6 +7,7 @@ Click an item on the left sidebar to begin.
 :hidden:
 
 mining/index.md
+farming/index.md
 misc/index.md
 soul/index.md
 ```

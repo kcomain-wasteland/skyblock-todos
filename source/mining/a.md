@@ -43,24 +43,24 @@ Requirements for DR-X355
     - [ ] `[0/12]` `Enchanted Diamond Block`
       - [ ] `[0/1920]` `Enchanted Diamond`
 
-- [ ] `[0/10]` `Refined Titanium`
-  - [ ] `[11/160]` `Enchanted tit`
+- [ ] `[0/10]` `Refined Titanium` (16 e tit @)
+  - [ ] `[12/160]` `Enchanted tit`
 
-- [ ] `[1/10]` `Refined Mithril`
-  - [ ] `[128/1600]` `Enchanted mithril`
+- [ ] `[1/10]` `Refined Mithril` (160 e mith @)
+  - [ ] `[136/1600]` `Enchanted mithril`
 
 
 # Gauntlet
 Started 2021-02-04 18:23
 ## Collection requirement
-- [ ] `[4/11]` Gemstone 11
-  - `[9,766/2,000,000]` Gemstones collected
+- [ ] `[5/11]` Gemstone 11
+  - `[14,478/2,000,000]` Gemstones collected
 ## Items
-- [ ] `[0/8]` ❤️ Flawless Ruby Gemstone
-  - `4,096,000` ❤️ Rough Ruby Gemstone
-- [ ] `[0/16]` Enchanted Gold Block
-  - `409,600` Gold Ingot
-    - [x] `[11,652/10,000]` Gold ingot collection
+- [ ] `[0/8]` `❤️ Flawless Ruby Gemstone`
+  - `4,096,000` `❤️ Rough Ruby Gemstone`
+- [ ] `[0/16]` `Enchanted Gold Block`
+  - `409,600` `Gold Ingot`
+    - [x] `[11,652/10,000]` `Gold ingot collection`
 
 # glacite set
 _(completed 2022-02-04 18:03)_
@@ -70,7 +70,7 @@ _(completed 2022-02-04 18:03)_
 - [x] boots
 
 
-## Tit pick (completed)
+## ~~Tit pick (completed)~~
 _pick your tits_
 
 

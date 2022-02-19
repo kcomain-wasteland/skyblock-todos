@@ -14,26 +14,26 @@ Requirements for DR-X355
 ## Item Tree
 - [ ] `[0/1]` `Drill Engine`
   - [ ] `[0/1]` `Enchanted Iron Block`
-    - [ ] `[0/160]` `Enchanted Iron Ingot`
+    - [ ] `[78/160]` `Enchanted Iron Ingot`
 
   - [ ] `[0/1]` `Golden Plate`
     - [ ] `[0/2]` `Enchanted Gold Block`
-      - [ ] `[0/320]` `Enchanted Gold`
+      - [ ] `[145/320]` `Enchanted Gold`
     - [x] `[5/5]` `Glacite Jewel`
     - [ ] `[0/1]` `Refined Diamond`
       - [ ] `[0/2]` `Enchanted Diamond Block`
-        - [ ] `[0/320]` `Enchanted Diamond`
+        - [ ] `[21/320]` `Enchanted Diamond`
   
   - [x] `[3/3]` `Enchanted Redstone Block`
   - [ ] `[2/10]` `Treasurite`
   - [ ] `[0/1]` `Refined Diamond`
     - [ ] `[0/2]` `Enchanted Diamond Block`
-      - [ ] `[0/320]` `Enchanted Diamond`
+      - [ ] `[21/320]` `Enchanted Diamond`
 
 
 - [ ] `[0/1]` `Fuel Tank`
   - [ ] `[0/2]` `Enchanted Coal Block`
-    - [ ] `[0/320]` `Enchanted Coal`
+    - [ ] `[92/320]` `Enchanted Coal`
 
 - [ ] `[0/6]` `Golden Plate`
   - [ ] `[15/30]` `Glacite Jewel`
@@ -43,11 +43,11 @@ Requirements for DR-X355
     - [ ] `[0/12]` `Enchanted Diamond Block`
       - [ ] `[0/1920]` `Enchanted Diamond`
 
-- [ ] `[0/10]` `Refined Titanium` (16 e tit @)
-  - [ ] `[13/160]` `Enchanted tit`
+- [ ] `[1/10]` `Refined Titanium` (16 e tit @)
+  - [ ] `[0 (+16)/160]` `Enchanted tit`
 
-- [ ] `[1/10]` `Refined Mithril` (160 e mith @)
-  - [ ] `[136/1600]` `Enchanted mithril`
+- [ ] `[2/10]` `Refined Mithril` (160 e mith @)
+  - [ ] `[5 (+320)/1600]` `Enchanted mithril`
 
 
 # Gauntlet

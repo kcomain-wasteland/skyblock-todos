@@ -15,7 +15,7 @@ myst-parser = "^0.16.1"
 sphinx-last-updated-by-git = "^0.3.0"
 
 [tool.poetry.dev-dependencies]
-mistune = "<2.0.0"
+mistune = "<3.0.0"
 dephell = "^0.8.3"
 
 [build-system]
